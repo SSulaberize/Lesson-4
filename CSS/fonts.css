@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'BPG DedaEna NonBlock';
+    src: url('../fonts/bpg-dedaena-nonblock-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-dedaena-nonblock-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-dedaena-nonblock-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-dedaena-nonblock-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-dedaena-nonblock-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-dedaena-nonblock-webfont.svg#bpg_dedaena_nonblockregular') format('svg'); /* Legacy iOS */
+}
+@font-face {
+    font-family: 'Nuosu SIL';
+    src: url('../Fonts/NuosuSIL-Regular.eot');
+    src: url('../Fonts/NuosuSIL-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/NuosuSIL-Regular.woff2') format('woff2'),
+        url('../Fonts/NuosuSIL-Regular.woff') format('woff'),
+        url('../Fonts/NuosuSIL-Regular.svg#NuosuSIL-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
